@@ -126,6 +126,6 @@ def adding_to_dennis
         }
      }
 programmer_hash[:denis_ritchie][:languages]["Assembly"] = "Assembly"
-P adding_to_dennis
+p adding_to_dennis
 end
 #it "operates on the programmer_hash and adds 'Assembly' to Dennis Ritchie's languages, returning the newly-added-to-hash" do
